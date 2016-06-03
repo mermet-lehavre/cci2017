@@ -10,7 +10,10 @@ public class Hello {
 	System.out.println("Préambule");
 	System.out.println("Bonjour tout le monde !");
 	System.out.println("Au revoir");
-	System.out.prinlnt("Comment allez-vous ?");
+	System.out.println("Comment allez-vous ?");
 	System.out.println("Épilogue");
+	methode2();
+    }
+    private static void methode2() {
     }
 }
