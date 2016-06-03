@@ -15,5 +15,6 @@ public class Hello {
 	methode2();
     }
     private static void methode2() {
+	System.out.println("methode 2");
     }
 }
