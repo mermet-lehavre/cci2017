@@ -1,8 +1,7 @@
 public class Hello {
     private static void methode() {
 	System.out.println("début methode 1");
-	System.out.println("début methode 1");
-	System.out.println("début methode 1");
+	System.out.println("milieu methode 1");
 	System.out.println("milieu methode 2");
 	System.out.println("fin methode 1");
     }
