@@ -4,6 +4,7 @@ public class Hello {
 	System.out.println("milieu methode 1");
 	System.out.println("milieu methode 2");
 	System.out.println("fin methode 1");
+	System.out.println("fin finale");
     }
     public static void main(String... args) {
 	methode();
